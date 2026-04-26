@@ -1,12 +1,11 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Siddharth%20Sarkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Platform%20Engineer%20%7C%20IaC%20%7C%20Azure%20Databricks&descAlignY=58&descColor=ffffff" width="100%"/>
-
 </div>
 
 <div align="center">
 
-**Capgemini · Mumbai**
+**Cloud Platform Engineer · IaC Engineer · Azure Databricks Administrator**
+Capgemini · Mumbai 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Sarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sarkar-37406122a)
 [![Email](https://img.shields.io/badge/Gmail-siddharthsarkar367@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsarkar367@gmail.com)
@@ -87,8 +86,15 @@ Outside of work I'm building **Tactix** — a football AI video analysis tool th
 
 ---
 
+## 📬 Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Sarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sarkar-37406122a)
+[![Email](https://img.shields.io/badge/Gmail-siddharthsarkar367@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsarkar367@gmail.com)
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=100&section=footer" width="100%"/>
 </div>
