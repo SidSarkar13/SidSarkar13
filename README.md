@@ -4,7 +4,6 @@
 
 <div align="center">
 
-**Cloud Platform Engineer · IaC Engineer · Azure Databricks Administrator**
 Capgemini · Mumbai 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Sarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sarkar-37406122a)
