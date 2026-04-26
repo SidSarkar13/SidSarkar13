@@ -1,7 +1,7 @@
 # Hey, I'm Siddharth Sarkar 👋
 
 **Cloud Platform Engineer · IaC Engineer · Azure Databricks Administrator**  
-Capgemini · Mumbai → Singapore 🇸🇬
+Capgemini · Mumbai 
 
 ---
 
